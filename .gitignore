@@ -60,7 +60,9 @@ phpcs.xml
 jsconfig.json
 UPGRADING-CURRENT.md
 .phpunit.cache
-public/theme/moove/
+public/theme/moove/*
+!public/theme/moove/lib.php
+!public/theme/moove/layout/drawers.php
 public/mod/hvp/
 public/mod/simplecertificate/
 public/admin/tool/objectfs/
