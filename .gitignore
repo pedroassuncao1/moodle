@@ -60,3 +60,8 @@ phpcs.xml
 jsconfig.json
 UPGRADING-CURRENT.md
 .phpunit.cache
+public/theme/moove/
+public/mod/hvp/
+public/mod/simplecertificate/
+public/admin/tool/objectfs/
+public/local/aws/
